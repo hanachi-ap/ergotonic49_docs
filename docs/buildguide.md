@@ -4,7 +4,7 @@ Ergotonic-49のビルドガイドです。
 
 ## 組み立て手順 (全体チャート)
 
-![全体チャート](img/flow_diagram.png)
+  <img src="img/flow_diagram.png" alt="img" title="img/flow_diagram.png" height=800>
 
 ## 準備
 組み立てを始める前に、パーツおよびツールが揃っていることを確認します。
@@ -87,7 +87,8 @@ QMK Toolboxは、ファームウェアをマイコン(ProMicro)へ書き込む�
 - PCBの裏面のLED0、LED1、LED2とシルク印刷されている3ヶ所に取り付けます。
   - PCBの裏側から、光る面が表側になるように配置します。
   - LEDには極性があります。LEDの足が欠けている方向をシルクの印に合わせます。
-  ![LED](img/rgb_led.jpg)
+  <img src="img/rgb_led.jpg" alt="img" title="img/rgb_led.jpg" width=500>
+
 -  LEDの4ヶ所の足をはんだ付けします。
 
 - アンダーグロー用LEDを取り付ける場合は、続けて LED3～LED16までをPCB表側から取り付けます。
@@ -103,7 +104,7 @@ NOTE:
 
 - PCBの裏面から取り付けます。
   - ダイオードには極性があります。LEDに薄い線が印刷されている方向(カソード)をPCBシルクに合わせて配置します。
-  - ![LED](img/diord.jpg)
+  <img src="img/diord.jpg" alt="img" title="img/diord.jpg" width=500>
 
 - 両端2ヶ所をはんだ付けします。
 
@@ -126,13 +127,14 @@ TIPS:
 キースイッチを取り外し可能にするソケットをはんだ付けします。
 
 - PCBの裏面からシルクに合わせて取り付けて、2ヶ所をはんだ付けします。
-  ![LED](img/socket.jpg)
+  <img src="img/socket.jpg" alt="img" title="img/socket.jpg" width=500>
 
 #### リセットスイッチをはんだ付けする
 
 - PCBの表側からタクトスイッチを取り付けます(極性はありません)
 - PCBの裏側からはんだ付けします
-![](img/resetsw.jpg)
+  <img src="img/resetsw.jpg" alt="img" title="img/resetsw.jpg" width=500>
+
 
 #### ロータリーエンコーダーを取り付ける
 
@@ -149,7 +151,8 @@ TIPS:
 - スプリングピンヘッダの足の長い方をPCBのスルーホールへ差し込みます。
 - ProMicroの部品が実装してある面が内側に隠れるような向き(平らな面が見える向き)でピンヘッダに差し込みます
 - ProMicro側のピンヘッダをはんだ付けします。
-  ![LED](img/promicro.jpg)
+
+  <img src="img/promicro.jpg" alt="img" title="img/promicro.jpg" width=500>
 
 NOTE
 - PCB側のピンヘッダははんだ付けしません。はんだ付けするのはProMicro側だけです。
@@ -184,8 +187,8 @@ PCBの表側からProMicroを取り付けます。
 - USBケーブルでPCとProMicroを接続します。
 - キーボード側のリセットスイッチ押します。
 -  QMK Toolbox上で書き込みログが表示されるので正常に完了することを確認します
-
-![](img/qmk_toolbox.png)
+ 
+   <img src="img/qmk_toolbox.png" alt="img" title="img/qmk_toolbox.png" width=500>
 
 #### LEDの点灯確認
 
@@ -206,7 +209,7 @@ Chromeブラウザで[REMAPサイト](https://remap-keys.app/configure)を開き
 - PCBにはんだ付けしたソケットにピンセットの先を差し込んでキーが押された状態を再現します。
 - 画面上でキーが押された状態になったことを確認します
 
-![](img/remap.png)
+  <img src="img/remap.png" alt="img" title="img/remap.png" width=500>
 
 トラブルシュート:
   - [キーが反応しない](#キーが反応しない)
@@ -236,22 +239,21 @@ NOTE:
 - PCBにスペーサー(短)を4ヶ所ネジ止めします
   - 写真の位置に、表側にスペーサーを配置し裏側からネジ止めします。
   - プレートを重ね、表側からも4ヶ所ネジ止めします。
-![](img/spacer_s.jpg)
+  <img src="img/spacer_s.jpg" alt="img" title="img/spacer_s.jpg" width=500>
 
 
 #### PCBと保護プレートを結合する
 
 - プレートの表側から、写真の位置にスペーサー(長)を配置し、PCBの裏側からネジ止めします
 - 保護プレートを重ねて3ヶ所ネジ止めします。
-
-![](img/spacer_l.jpg)
+  <img src="img/spacer_l.jpg" alt="img" title="img/spacer_l.jpg" width=500>
 
 #### ボトムプレートを結合する
 
 - 全体を裏返し、6角形の穴の部分にスペーサー(長)を8本差し込みます
 - プレート側からネジ止めします
 - ボトムプレートを重ね8ヶ所ネジ止めします
-![](img/bottom_screw.jpg)
+  <img src="img/bottom_screw.jpg" alt="img" title="img/bottom_screw.jpg" width=500>
 
 #### ゴム足を取り付けます
 
@@ -330,16 +332,15 @@ TIPS:
 
 自作キーボードの代表的なショップを列挙します(順不同)。前述のみ立てキット以外に必要な部品は下記ショップでほぼ揃います。
 
-- 遊舎工房 (https://yushakobo.jp/)
-- TALP KEYBOARD (https://talpkeyboard.stores.jp/)
-- ゆかりキーボードファクトリ (https://eucalyn.shop/)
-- Kochi Keyboard (https://kochikeyboard.stores.jp/)
-
-
-- 秋月電子通商 (https://akizukidenshi.com/catalog/default.aspx)
+- 遊舎工房 [https://yushakobo.jp/](https://yushakobo.jp/)
+- TALP KEYBOARD [https://talpkeyboard.stores.jp/](https://talpkeyboard.stores.jp/)
+- ゆかりキーボードファクトリ [https://eucalyn.shop/](https://eucalyn.shop/)
+- Kochi Keyboard [https://kochikeyboard.stores.jp/](https://kochikeyboard.stores.jp/)
+- 秋月電子通商 [https://akizukidenshi.com/catalog/default.aspx](https://akizukidenshi.com/catalog/default.aspx)
+  
 ### はんだ付け技能
 下記以外にも様々なテクニックやノウハウが公開されているので、検索サイトで調べるようにしてください。
 
 - [電子工作のコツ/はんだ付け ](https://article.murata.com/ja-jp/article/soldering)村田製作所
-- [ハンダ付け職人のはんだ付け講座](https://godhanda.co.jp/blog/category/handakouza/soldering%E3%80%80guide/)ゴッドはんだ株式会社
+- [ハンダ付け職人のはんだ付け講座](https://godhanda.co.jp/blog/category/handakouza/soldering%E3%80%80guide/) ゴッドはんだ株式会社
 - [表面実装部品（SMD）のはんだ付け](https://www.kogadenshi.co.jp/%E5%8D%8A%E7%94%B0%E4%BB%98%E3%81%91%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81-smd-%E3%81%AE%E5%8D%8A%E7%94%B0%E4%BB%98%E3%81%91/) 株式会社古賀電子
