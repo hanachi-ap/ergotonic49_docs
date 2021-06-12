@@ -250,6 +250,7 @@ NOTE:
 
 - トッププレートの表側から、写真の位置にスペーサー(長)を配置し、PCBの裏側からネジ止めします
 - 保護プレートを重ねて3ヶ所ネジ止めします。
+
   <img src="img/spacer_l.jpg" alt="img" title="img/spacer_l.jpg" width=500>
 
 #### ボトムプレートを結合する
@@ -257,6 +258,7 @@ NOTE:
 - 全体を裏返し、6角形の穴の部分にスペーサー(長)を8本差し込みます
 - トッププレート側からネジ止めします
 - ボトムプレートを重ね8ヶ所ネジ止めします
+  
   <img src="img/bottom_screw.jpg" alt="img" title="img/bottom_screw.jpg" width=500>
 
 #### ゴム足を取り付けます
