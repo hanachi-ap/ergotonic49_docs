@@ -4,7 +4,7 @@ Ergotonic-49のビルドガイドです。
 
 ## 組み立て手順 (全体チャート)
 
-  <img src="img/flow_diagram.png" alt="img" title="img/flow_diagram.png" height=800>
+  [<img src="img/flow_diagram.png" alt="img" title="img/flow_diagram.png" height=600>](img/flow_diagram.png)
 
 ## 準備
 組み立てを始める前に、パーツおよびツールが揃っていることを確認します。
@@ -87,6 +87,7 @@ QMK Toolboxは、ファームウェアをマイコン(ProMicro)へ書き込む�
 - PCBの裏面のLED0、LED1、LED2とシルク印刷されている3ヶ所に取り付けます。
   - PCBの裏側から、光る面が表側になるように配置します。
   - LEDには極性があります。LEDの足が欠けている方向をシルクの印に合わせます。
+  
   <img src="img/rgb_led.jpg" alt="img" title="img/rgb_led.jpg" width=500>
 
 -  LEDの4ヶ所の足をはんだ付けします。
@@ -104,7 +105,8 @@ NOTE:
 
 - PCBの裏面から取り付けます。
   - ダイオードには極性があります。LEDに薄い線が印刷されている方向(カソード)をPCBシルクに合わせて配置します。
-  <img src="img/diord.jpg" alt="img" title="img/diord.jpg" width=500>
+  
+   <img src="img/diord.jpg" alt="img" title="img/diord.jpg" width=500>
 
 - 両端2ヶ所をはんだ付けします。
 
@@ -127,12 +129,14 @@ TIPS:
 キースイッチを取り外し可能にするソケットをはんだ付けします。
 
 - PCBの裏面からシルクに合わせて取り付けて、2ヶ所をはんだ付けします。
+  
   <img src="img/socket.jpg" alt="img" title="img/socket.jpg" width=500>
 
 #### リセットスイッチをはんだ付けする
 
 - PCBの表側からタクトスイッチを取り付けます(極性はありません)
 - PCBの裏側からはんだ付けします
+  
   <img src="img/resetsw.jpg" alt="img" title="img/resetsw.jpg" width=500>
 
 
