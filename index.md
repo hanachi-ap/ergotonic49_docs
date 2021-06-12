@@ -1,16 +1,14 @@
 # Ergotonic-49 Spirit of the Willow
  
-現在は日本語による情報のみ掲載しています。
-
-
+[English pages](https://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Fhanachi-ap.github.io%2Fergotonic49_docs%2F&sandbox=1)
 
 ## 自作キーボードキット Ergotonic-49 
 
 ![](docs/img/img1.jpg)
 
-- いわゆる40%キーボード。合計49キー(エクストラとして更に+1キー)
-- 一体型だけど分離型。分離型だけど非分割。ちょうど扱いやすいサイズ感
-- 細身のスタイリッシュな外観
+- 40%メカニカルキーボード。合計49キーにエクストラとして更に+1キー増量中
+- 一体型だけど分離型。分離型だけど非分割。 ストレスレス運用
+- ちょうど扱いやすいサイズ感、 細身のスタイリッシュなボディ
 - Row staggeredと Column staggeredが融合したような独特なカーブを持つWillow配列を採用
 - すっと指を伸ばすとそこに自然にキーがある不思議な感覚
 - 最大3つのロータリーエンコーダに対応
@@ -24,11 +22,11 @@
 
 ## キットの入手先
 
-[BOOTH hanachi-ya](https://hanachiya.booth.pm/items/3040189)
+ - [BOOTH hanachi-ya](https://hanachiya.booth.pm/items/3040189)
 
 ## ビルドガイド
 
-  [Erogotonic 49 ビルドガイド](docs/buildguide.md)
+ -  [Erogotonic 49 ビルドガイド](docs/buildguide.md)
 
 ## ファームウェア
 
@@ -39,6 +37,11 @@
 - hexファイル
 
    [ergotonic49_default.hex](lib/ergotonic49_default.hex)
+
+- REMAP
+  
+  ブラウザで [REMAPサイト](https://remap-keys.app/) にアクセスするだけで簡単にキーマップやLED表示が設定可能 (公式キーマップに登録済み)
+
 
 - VIA用jsonファイル
   
