@@ -1,7 +1,6 @@
 [<<Prev: 事前の準備](01_preparation.md)  
-----
 
-# ProMicroの準備
+# 2. ProMicroの準備
 
 
 ## QMK ToolboxをPCへインストールする
@@ -49,4 +48,4 @@ TIPS:
 ----
  [>>Next: PCBへのパーツ取り付け](03_soldering_pcb.md)
 
- 
+ [Index](index.md)

@@ -1,8 +1,6 @@
+[<<Prev: Index](index.md) 
 
- [<<Prev: Index](index.md) 
-----
-
-# 準備
+# 1. 準備
 
 組み立てを始める前に、パーツおよびツールが揃っていることを確認します。
 
@@ -55,4 +53,6 @@
  - エポキシ系接着剤(必要に応じて)
 
 ----
- [>>Next: ProMicroの準備](02_promicro.md)
+[>>Next: ProMicroの準備](02_promicro.md)   
+
+[Index](index.md)

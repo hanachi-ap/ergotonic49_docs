@@ -1,8 +1,6 @@
-
 [<<Prev: PCBへのパーツ取り付け](03_soldering_pcb.md)  
-----
 
-# 組立前の動作確認
+# 4. 組立前の動作確認
 
 ## ProMicroを取り付ける
 
@@ -47,3 +45,5 @@ Chromeブラウザで[REMAPサイト](https://remap-keys.app/configure)を開き
 
 ----
  [>>Next: 組み立て](05_assembly.md)
+
+[Index](index.md)

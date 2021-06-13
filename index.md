@@ -26,7 +26,7 @@
 
 ## ビルドガイド
 
- -  [Erogotonic 49 ビルドガイド](docs/index.md)
+ -  [Erogotonic 49 ビルドガイド](https://hanachi-ap.github.io/ergotonic49_docs/docs/)
 
 ## ファームウェア
 

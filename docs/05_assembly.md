@@ -2,7 +2,7 @@
 [<<Prev: 組立前の動作確認](04_operation_check.md)  
 ----
 
-# 組み立て
+# 5. 組み立て
 
 ## 保護プレートの切り離し
 
@@ -45,8 +45,10 @@ NOTE:
   
   <img src="img/bottom_screw.jpg" alt="img" title="img/bottom_screw.jpg" width=500>
 
-## ゴム足を取り付けます
+## ゴム足を取り付ける
 
 - 裏側からゴム足を4箇所に取り付けます
 ----
  [>>Next: 最後のステップ](06_final_step.md)
+
+[Index](index.md)

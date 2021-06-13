@@ -1,9 +1,12 @@
 # Ergotonic-49 組み立て説明書
 
 Ergotonic-49のビルドガイドです。
+
+キーボードの組み立てを始める前に全体工程をよく理解してから取りかることをおすすめします。
+
 ## TOC
 
-1. [事前の準備](01_preparation.md)  
+1. [準備](01_preparation.md)  
 2. [ProMicroの準備](02_promicro.md)
 3. [PCBへのパーツ取り付け](03_soldering_pcb.md)
 4. [組立前の動作確認](04_operation_check.md)
@@ -14,5 +17,5 @@ Ergotonic-49のビルドガイドです。
 
 ## 組み立て手順 (全体チャート)
 
-  [<img src="img/flow_diagram.png" alt="img" title="img/flow_diagram.png" height=600>](img/flow_diagram.png)
+  [<img src="img/flow_diagram.png" alt="img" title="img/flow_diagram.png" width=600>](img/flow_diagram.png)
 

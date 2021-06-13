@@ -1,6 +1,6 @@
 [<<Prev: ProMicroの準備](02_promicro.md)  
 
-# PCBへのパーツ取り付け
+# 3. PCBへのパーツ取り付け
 
 ## RGB LEDをはんだ付けする
 
@@ -69,3 +69,5 @@ TIPS:
 
 ----
  [>>Next: 組立前の動作確認](04_operation_check.md)
+
+[Index](index.md)

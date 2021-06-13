@@ -1,7 +1,6 @@
 [<<Prev: トラブルシュート](07_troubleshoot.md)  
-----
 
-# 参考情報
+# 8. 参考情報
 
 ## パーツショップ(日本)
 
@@ -21,4 +20,5 @@
 - [表面実装部品（SMD）のはんだ付け](https://www.kogadenshi.co.jp/%E5%8D%8A%E7%94%B0%E4%BB%98%E3%81%91%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF/%E8%A1%A8%E9%9D%A2%E5%AE%9F%E8%A3%85%E9%83%A8%E5%93%81-smd-%E3%81%AE%E5%8D%8A%E7%94%B0%E4%BB%98%E3%81%91/) 株式会社古賀電子
 
 ----
- [>>Next: Index](index.md)
+ [Index](index.md)
+
