@@ -26,7 +26,7 @@
 
 ## ビルドガイド
 
- -  [Erogotonic 49 ビルドガイド](docs/buildguide.md)
+ -  [Erogotonic 49 ビルドガイド](docs/index.md)
 
 ## ファームウェア
 
