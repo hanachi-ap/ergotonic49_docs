@@ -31,7 +31,7 @@
 
  - ソースコード
    
-   https://github.com/hanachi-ap/qmk_firmware/tree/ergotonic49/keyboards/ergotonic49
+     [hanachi-ap / qmk_firmware](https://github.com/hanachi-ap/qmk_firmware/tree/ergotonic49/keyboards/ergotonic49)
 
 - hexファイル
 

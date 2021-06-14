@@ -25,7 +25,7 @@ PCBの表側からProMicroを取り付けます。
 取り付けたすべてのLEDが 赤-緑-青に交互に点灯することを確認します。
 
 トラブルシュート
-  - [LEDが点灯しない](LEDが点灯しない)
+  - [LEDが点灯しない](07_troubleshoot.md)
   
 ## キーが反応することを確認する
 
@@ -41,7 +41,8 @@ Chromeブラウザで[REMAPサイト](https://remap-keys.app/configure)を開き
   <img src="img/remap.png" alt="img" title="img/remap.png" width=500>
 
 トラブルシュート:
-  - [キーが反応しない](#キーが反応しない)
+  - [キーが反応しない](07_troubleshoot.md)
+
 
 ----
  [>>Next: 組み立て](05_assembly.md)

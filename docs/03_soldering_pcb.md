@@ -2,6 +2,11 @@
 
 # 3. PCBへのパーツ取り付け
 
+PCBへのパーツを取り付ける際には、PCBの表裏に注意して下さい。
+
+   <img src="img/pcb.png" alt="img" title="img/pcb.png" width=500>
+
+
 ## RGB LEDをはんだ付けする
 
 モードインジケータ兼装飾用のLEDをはんだ付けします。
