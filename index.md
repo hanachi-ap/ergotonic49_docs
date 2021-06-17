@@ -31,15 +31,23 @@
 
  - ソースコード
    
+   公式にはマージしていないので下記をcloneあるいはforkなどして下さい。
+
      [hanachi-ap / qmk_firmware](https://github.com/hanachi-ap/qmk_firmware/tree/ergotonic49/keyboards/ergotonic49)
 
 - hexファイル
 
-   [ergotonic49_default.hex](lib/ergotonic49_default.hex)
+   [ergotonic49_default.hex](lib/ergotonic49_default.hex)    (VIA対応バイナリです)
+
+
+- 標準キーマップ
+  
+   [keymap_cheatsheet_ergotonic_49.pdf](docs/img/keymap_cheatsheet_ergotonic_49.pdf)
+
 
 - REMAP
   
-  ブラウザで [REMAPサイト](https://remap-keys.app/) にアクセスするだけで簡単にキーマップやLED表示が設定可能 (公式キーマップとして登録申請中)
+  ブラウザで [REMAPサイト](https://remap-keys.app/) にアクセスするだけで簡単にキーマップやLED表示が設定可能です (公式にマージ済み)
 
 - VIA用jsonファイル
   
