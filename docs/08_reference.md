@@ -13,7 +13,9 @@
 - 秋月電子通商 [https://akizukidenshi.com/catalog/default.aspx](https://akizukidenshi.com/catalog/default.aspx)
   
 ## はんだ付け技能
-下記以外にも様々なテクニックやノウハウが公開されているので、検索サイトで調べるようにしてください。
+下記以外にも様々なテクニックやノウハウが公開されているので、各個のスキルに応じて検索サイトで調べるようにしてください。
+
+- [はんだ付けテクニックを学ぼう](https://handa-craft.hakko.com/) HAKKO
 
 - [電子工作のコツ/はんだ付け ](https://article.murata.com/ja-jp/article/soldering)村田製作所
 - [ハンダ付け職人のはんだ付け講座](https://godhanda.co.jp/blog/category/handakouza/soldering%E3%80%80guide/) ゴッドはんだ株式会社
