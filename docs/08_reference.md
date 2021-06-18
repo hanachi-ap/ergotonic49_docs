@@ -4,7 +4,7 @@
 
 ## パーツショップ(日本)
 
-自作キーボードの代表的なショップを列挙します(順不同)。前述のみ立てキット以外に必要な部品は下記ショップでほぼ揃います。
+キット以外に必要なパーツは自作キーボードの代表的な下記ショップで揃えることができます。
 
 - 遊舎工房 [https://yushakobo.jp/](https://yushakobo.jp/)
 - TALP KEYBOARD [https://talpkeyboard.stores.jp/](https://talpkeyboard.stores.jp/)

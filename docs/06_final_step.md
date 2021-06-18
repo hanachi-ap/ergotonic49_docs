@@ -34,6 +34,8 @@ TIPS:
 
  ## 問題がなければこれで作業は完了です!
 
+素敵な写真を撮ってSNSで自慢しましょう。
+
 
 TIPS:
   - LEDがテストモードで動作しているのを止めたい場合は、[REMAP](https://remap-keys.app/configure) の ”Lightning"設定でお好みのモードに変更してください。
