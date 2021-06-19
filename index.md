@@ -31,9 +31,9 @@
 
  - ソースコード
    
-   公式にはマージしていないので下記をcloneあるいはforkなどして下さい。
-
      [hanachi-ap / qmk_firmware](https://github.com/hanachi-ap/qmk_firmware/tree/ergotonic49/keyboards/ergotonic49)
+
+   公式にはマージしていないので上記リポジトリをcloneあるいはforkなどして下さい。
 
 - hexファイル
 
@@ -42,17 +42,23 @@
 
 - 標準キーマップ
   
-   [keymap_cheatsheet_ergotonic_49.pdf](docs/img/keymap_cheatsheet_ergotonic_49.pdf)
+   チートシート [keymap_cheatsheet_ergotonic_49.pdf](docs/img/keymap_cheatsheet_ergotonic_49.pdf)
 
 
 - REMAP
   
-  ブラウザで [REMAPサイト](https://remap-keys.app/) にアクセスするだけで簡単にキーマップやLED表示が設定可能です (公式にマージ済み)
+  REMAP公式にマージ済み。
+
+  ブラウザで [REMAPサイト](https://remap-keys.app/) にアクセスするだけで簡単にキーマップやLED表示が設定できます。
 
 - VIA用jsonファイル
   
     [ergotonic49_via.json](lib/ergotonic49_via.json)
 
+    VIAを利用する場合は上記ファイルを読み込ませて下さい。
+
 ## 物理レイアウト
 
--  [ergotonic49.pdf](docs/img/ergotonic49.pdf)
+本体サイズ  359mm x 113mm x 10mm
+   
+- 実物大レイアウト図 [ergotonic49.pdf](docs/img/ergotonic49.pdf)
