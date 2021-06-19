@@ -52,3 +52,7 @@
 - VIA用jsonファイル
   
     [ergotonic49_via.json](lib/ergotonic49_via.json)
+
+## 物理レイアウト
+
+-  [ergotonic49.pdf](docs/img/ergotonic49.pdf)

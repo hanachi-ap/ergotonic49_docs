@@ -15,6 +15,9 @@ Ergotonic-49のビルドガイドです。
 7. [トラブルシュート](07_troubleshoot.md)
 8. [参考情報](08_reference.md)
 
+- [キーボードをカスタマイズする](../09_customize.md)
+  
+
 ## 組み立て手順 (全体チャート)
 
   [<img src="img/flow_diagram.png" alt="img" title="img/flow_diagram.png" width=600>](img/flow_diagram.png)
