@@ -1,4 +1,4 @@
-# Ergotonic-49 Spirit of the Willow
+# Ergotonic49 Spirit of the Willow
 
 -  40% mechanical keyboard. 49 keys in total, plus one extra key for extras.
 -    Integrated but separate. Separated but not split. Stress-free operation.

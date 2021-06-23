@@ -15,9 +15,9 @@ QMK Toolboxは、ファームウェアをマイコン(ProMicro)へ書き込む�
 
 ## 標準ファームウェアをダウンロードする
 
-下記URLからErgotonic-49用の標準ファームウェアファイルをダウンロードしてPCへ保存して下さい。
+下記URLからErgotonic49用の標準ファームウェアファイルをダウンロードしてPCへ保存して下さい。
 
-  - [Ergotonic-49 Default firmware](../lib/ergotonic49_default.hex)
+  - [Ergotonic49 Default firmware](../lib/ergotonic49_default.hex)
 
 ## ProMicroにコンスルーをはんだ付けする
 

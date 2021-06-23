@@ -1,8 +1,8 @@
-# Ergotonic-49 Spirit of the Willow
+# Ergotonic49 Spirit of the Willow
  
 [English pages](https://translate.google.com/translate?hl=&sl=ja&tl=en&u=https%3A%2F%2Fhanachi-ap.github.io%2Fergotonic49_docs%2F&sandbox=1)
 
-## 自作キーボードキット Ergotonic-49 
+## 自作キーボードキット Ergotonic49 
 
 ![](docs/img/img1.jpg)
 
