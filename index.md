@@ -37,7 +37,10 @@
 
 - hexファイル
 
-   [ergotonic49_default.hex](lib/ergotonic49_default.hex)    (VIA対応バイナリです)
+   [ergotonic49_default.hex](lib/ergotonic49_default.hex)    (ロータリーエンコーダVIA対応バイナリです)
+
+
+   [ergotonic49_default_v1.hex](lib/ergotonic49_default_v1.hex)    (前バージョンのバイナリ)
 
 
 - 標準キーマップ
