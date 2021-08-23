@@ -28,6 +28,7 @@ Ergotonic49のボトムプレートをアクリルに置き換えて
 ## ギャラリー
 
 準備中
+
   <img src="img/acrylic_diffuser0.png" alt="img" title="img/acrylic_diffuser0.png" width=500>
 
   <img src="img/acrylic_diffuser1.jpg" alt="img" title="img/acrylic_diffuser1.jpg" width=500>
