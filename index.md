@@ -4,8 +4,7 @@
 
 ## 自作キーボードキット Ergotonic49 
 
-![](docs/img/img1.jpg)
-  <img src="docs/img/img1.jpg" alt="img" title="docs/img/img1.jpg" width=600>
+  <img src="docs/img/img1.jpg" alt="img" title="docs/img/img1.jpg" width=650>
 
 
 Ergotonic49は 40%一体型メカニカルキーボードの組み立てキットです。
