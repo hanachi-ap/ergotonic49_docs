@@ -5,6 +5,7 @@
 ## 自作キーボードキット Ergotonic49 
 
 ![](docs/img/img1.jpg)
+  <img src="docs/img/img1.jpg" alt="img" title="docs/img/img1.jpg" width=600>
 
 
 Ergotonic49は 40%一体型メカニカルキーボードの組み立てキットです。
@@ -72,11 +73,6 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
    [ergotonic49_default_v1.hex](lib/ergotonic49_default_v1.hex)    (前バージョンのバイナリ)
 
 
-- 標準キーマップ
-  
-   チートシート [keymap_cheatsheet_ergotonic_49.pdf](docs/img/keymap_cheatsheet_ergotonic_49.pdf)
-
-
 - REMAP
   
   REMAP公式にマージ済み。
@@ -91,12 +87,20 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 
 ## 物理レイアウト
 
-本体サイズ  359mm x 113mm x 10mm
+- 本体サイズ 
+ 
+  359mm x 113mm x 10mm
    
-- 実物大レイアウト図 [ergotonic49.pdf](docs/img/ergotonic49.pdf)
+- 実物大レイアウト図 
 
-## 加工オプション アクリルディフーザー
+  [ergotonic49.pdf](docs/img/ergotonic49.pdf)
 
 
+- 標準キーマップ
+  
+   チートシート [keymap_cheatsheet_ergotonic_49.pdf](docs/img/keymap_cheatsheet_ergotonic_49.pdf)
+
+
+## 加工オプション 
    
 - 加工オプション [アクリルディフューザー](docs/10_acrylic_diffuser.md)
