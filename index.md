@@ -44,9 +44,15 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 
 ## キットの入手先
 
+日本国内では下記から購入できます。海外への転送サービスも利用できるはずですので検討ください。
+
  - [BOOTH hanachi-ya](https://hanachiya.booth.pm/items/3040189)
 
+ - [遊舎工房](https://shop.yushakobo.jp/collections/keyboard/products/2942)
+
 ## ビルドガイド
+
+キーボードの組み立て方はこちらを参照してください
 
  -  [Erogotonic 49 ビルドガイド](https://hanachi-ap.github.io/ergotonic49_docs/docs/)
 
