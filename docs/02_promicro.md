@@ -2,22 +2,11 @@
 
 # 2. ProMicroの準備
 
-
-## QMK ToolboxをPCへインストールする
-
-QMK Toolboxは、ファームウェアをマイコン(ProMicro)へ書き込むために必要となります。 (既に環境がある方はこの作業は不要です)
-
-下記サイトから QMK Toolboxをダウンローして自身のPCへインストールします。
-
-  - [https://github.com/qmk/qmk_toolbox/releases](https://github.com/qmk/qmk_toolbox/releases)
-
-インストール方法はサイトの情報に従ってください。必要に応じてドライバもインストールします。
-
-## 標準ファームウェアをダウンロードする
-
-下記URLからErgotonic49用の標準ファームウェアファイルをダウンロードしてPCへ保存して下さい。
-
-  - [Ergotonic49 Default firmware](../lib/ergotonic49_default.hex)
+2021年10月の追記コメント
+  
+  ブラウザからキーボードをカスタマイズするREMAPに、ファームウェアの書き込み機能が追加されました。
+  その機能を用いることで、お手持ちのパソコンにファームウェア書き込みツール(QMK Toolbox)を
+  インストールする必要がなくなりました。(REMAP開発陣に感謝!)
 
 ## ProMicroにコンスルーをはんだ付けする
 

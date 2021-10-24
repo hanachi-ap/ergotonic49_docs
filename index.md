@@ -33,7 +33,7 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 - フルカラーLED
 
   キーボード中央には各種LOCKステータスの表示を兼ねて装飾用フルカラーLEDを配置。
-  オプションでキーボード下部を照らすアンダーグローにも対応。(LEDは別途調達要)
+  オプションでキーボード下部を照らすアンダーグローにも対応。(アンダーグロー用のLEDは別途調達要)
 
 - 3層サンドイッチ構造
 
@@ -41,6 +41,7 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 
 - ProMicroとQMK firmware
 
+  非常に柔軟な細部カスタマイズにも対応。
 
 ## キットの入手先
 
@@ -50,7 +51,7 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 
  - [遊舎工房](https://shop.yushakobo.jp/collections/keyboard/products/2942)
 
-## ビルドガイド
+## 組み立て方法
 
 キーボードの組み立て方はこちらを参照してください
 
@@ -68,10 +69,6 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 
    [ergotonic49_default.hex](lib/ergotonic49_default.hex)    (ロータリーエンコーダVIA対応バイナリです)
 
-
-   [ergotonic49_default_v1.hex](lib/ergotonic49_default_v1.hex)    (前バージョンのバイナリ)
-
-
 - REMAP
   
   REMAP公式にマージ済み。
@@ -88,7 +85,7 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 
 - 本体サイズ 
  
-  359mm x 113mm x 10mm
+  359mm x 113mm x 10mm (突起部除く)
    
 - 実物大レイアウト図 
 
@@ -98,7 +95,6 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 - 標準キーマップ
   
    チートシート [keymap_cheatsheet_ergotonic_49.pdf](docs/img/keymap_cheatsheet_ergotonic_49.pdf)
-
 
 ## 加工オプション 
    

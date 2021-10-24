@@ -7,22 +7,41 @@
 PCBの表側からProMicroを取り付けます。
 
 ## ファームウェアを書き込む
-ダウンロードしておいたファームウェアをProMicroに書き込みます。
 
-- PC側のQMK Toolboxで書き込みを準備します
-  - PC上で QMK Tookboxを起動します
-  - Openボタンをクリックし、入手したファームウェアファイルを指定します。
-  - Auto-Flashの部分をチェックします
-- USBケーブルでPCとProMicroを接続します。
-- キーボード側のリセットスイッチ押します。
--  QMK Toolbox上で書き込みログが表示されるので正常に完了することを確認します
- 
-   <img src="img/qmk_toolbox.png" alt="img" title="img/qmk_toolbox.png" width=500>
+(2021年10月: REMAP利用する方法を記載しています)
+
+- Ergotonic49とパソコンをUSBケーブルで接続します。
+
+- ChromeもしくはEdge ブラウザで次のURLへアクセスします。
+
+   https://remap-keys.app/catalog/XRdgiLWthCPiTAo1Nvac/firmwar
+
+-  書き込みを行うファームウェア(ここでは ergotonic49_default.hex )の FLUSH 
+   をクリックし、表示される操作方法(英語表記です)を確認し、さらにFLUSHを
+   クリックします。
+
+- シリアルポート選択のポップアップ画面が出たら、キーボードのリセットボタンを
+  押します。
+
+- シリアルポートの一覧に ’Arduino Micro (COMxx)' とう行が追加されるので
+  それを選択して ’接続’ をクリックします。
+
+- Firmware書き込みが正常に完了することを確認します。
+
+
+REMAPの画面や操作方法は日々更新されるため、実際の操作はREMAPに記載の
+内容をよく確認の上で行うようにしてください。
+
+
+
+QMK Toolboxを利用する場合はファームウェアは下記から取得してください。
+   [ergotonic49_default.hex](lib/ergotonic49_default.hex)  
 
 ## LEDの点灯確認
 
-ファームウェアの書込みができた時点でLEDが点灯する設定となっています。
-取り付けたすべてのLEDが 赤-緑-青に交互に点灯することを確認します。
+ファームウェアの書込みができた時点でLEDは虹色に点灯する設定となっています。
+
+取り付けたすべての光ることを確認します。
 
 トラブルシュート:
   - [LEDが点灯しない](07_troubleshoot.md)
