@@ -14,27 +14,35 @@ PCBの表側からProMicroを取り付けます。
 
 - ChromeもしくはEdge ブラウザで次のURLへアクセスします。
 
-   https://remap-keys.app/catalog/XRdgiLWthCPiTAo1Nvac/firmwar
+   [https://remap-keys.app/catalog/XRdgiLWthCPiTAo1Nvac/firmwar](https://remap-keys.app/catalog/XRdgiLWthCPiTAo1Nvac/firmwar)
 
 -  書き込みを行うファームウェア(ここでは ergotonic49_default.hex )の FLUSH 
    をクリックし、表示される操作方法(英語表記です)を確認し、さらにFLUSHを
    クリックします。
+  
+   <img src="img/remap_flush1.png" alt="img" title="img/remap_flush1.png" width=500>
+
 
 - シリアルポート選択のポップアップ画面が出たら、キーボードのリセットボタンを
   押します。
 
+   <img src="img/remap_flush2.png" alt="img" title="img/remap_flush2.png" width=300>
+
 - シリアルポートの一覧に ’Arduino Micro (COMxx)' とう行が追加されるので
   それを選択して ’接続’ をクリックします。
+   
+   <img src="img/remap_flush3.png" alt="img" title="img/remap_flush3.png" width=300>
 
 - Firmware書き込みが正常に完了することを確認します。
 
+   <img src="img/remap_flush4.png" alt="img" title="img/remap_flush4.png" width=300>
 
-REMAPの画面や操作方法は日々更新されるため、実際の操作はREMAPに記載の
+TIPS:
+
+- REMAPの画面や操作方法は日々更新されるため、実際の操作はREMAPに記載の
 内容をよく確認の上で行うようにしてください。
 
-
-
-QMK Toolboxを利用する場合はファームウェアは下記から取得してください。
+- QMK Toolboxを利用する場合はファームウェアは下記から取得してください。
    [ergotonic49_default.hex](lib/ergotonic49_default.hex)  
 
 ## LEDの点灯確認
