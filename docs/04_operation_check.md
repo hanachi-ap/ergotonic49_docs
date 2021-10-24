@@ -22,11 +22,12 @@ PCBの表側からProMicroを取り付けます。
   
    <img src="img/remap_flush1.png" alt="img" title="img/remap_flush1.png" width=500>
 
+   <img src="img/remap_flush2.png" alt="img" title="img/remap_flush2.png" width=300>
 
 - シリアルポート選択のポップアップ画面が出たら、キーボードのリセットボタンを
   押します。
 
-   <img src="img/remap_flush2.png" alt="img" title="img/remap_flush2.png" width=300>
+
 
 - シリアルポートの一覧に ’Arduino Micro (COMxx)' とう行が追加されるので
   それを選択して ’接続’ をクリックします。
