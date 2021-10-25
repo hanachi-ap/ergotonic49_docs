@@ -74,7 +74,7 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
   REMAP公式にマージ済み。
 
   ブラウザで [REMAPサイト](https://remap-keys.app/) にアクセスするだけで簡単にキーマップやLED表示が設定できます。
-
+  
 - VIA用jsonファイル
   
     [ergotonic49_via.json](lib/ergotonic49_via.json)
@@ -99,3 +99,20 @@ Ergotonic49は 40%一体型メカニカルキーボードの組み立てキッ�
 ## 加工オプション 
    
 - 加工オプション [アクリルディフューザー](docs/10_acrylic_diffuser.md)
+
+## ムービー
+- [一風変わった自作キーボード Ergotonic49 を試打してみた動画](https://www.youtube.com/watch?v=2PWICgIQ6LM) (by hanachi)
+
+- [作キーボード Ergotonic49 を見にいってきた in 遊舎工房](https://www.youtube.com/watch?v=CkDsATTYF7o) (by Daihuku keyboardさん)
+
+- [Ergotonic-49の組み立て作業ライブ](https://www.youtube.com/watch?v=DlXEWb0NfDU) (by 香り屋さん)
+
+## ニュース記事
+
+- [Willow配列のキーボード自作キット「Ergotonic49」が入荷、手指の自然な動きにフィット](https://akiba-pc.watch.impress.co.jp/docs/news/news/1359782.html) -  AKIBA PC Hotline!
+
+
+## フォトギャラリー
+
+- [フォトギャラリー](photogallery.md)
+
